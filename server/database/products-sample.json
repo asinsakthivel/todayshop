@@ -1,0 +1,40 @@
+[
+  {
+    "sellerId": "000000000000000000000001",
+    "shopName": "Sample Shop",
+    "name": "Organic Almonds",
+    "description": "Premium quality organic almonds in a re-sealable pouch.",
+    "price": 12.99,
+    "costPrice": 9.0,
+    "discountPrice": 10.99,
+    "category": "Pantry/Dry Goods",
+    "stockQuantity": 120,
+    "images": [
+      "https://images.unsplash.com/photo-1510626176961-4b2f3f3945b1"
+    ]
+  },
+  {
+    "sellerId": "000000000000000000000002",
+    "shopName": "Sample Shop",
+    "name": "Fresh Strawberries",
+    "description": "Sweet and juicy strawberries harvested from local farms.",
+    "price": 5.49,
+    "category": "Produce",
+    "stockQuantity": 45,
+    "images": [
+      "https://images.unsplash.com/photo-1498654896293-37aacf113fd9"
+    ]
+  },
+  {
+    "sellerId": "000000000000000000000003",
+    "shopName": "Sample Shop",
+    "name": "Whole Wheat Bread",
+    "description": "Soft and healthy whole wheat bread baked fresh daily.",
+    "price": 3.75,
+    "category": "Bakery",
+    "stockQuantity": 75,
+    "images": [
+      "https://images.unsplash.com/photo-1542190865-5e31d6515e77"
+    ]
+  }
+]
