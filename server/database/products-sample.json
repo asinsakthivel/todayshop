@@ -1,19 +1,38 @@
 [
   {
+    "_id": "6a54ce24985e9a202159a4e1",
     "sellerId": "000000000000000000000001",
     "shopName": "Sample Shop",
     "name": "Organic Almonds",
     "description": "Premium quality organic almonds in a re-sealable pouch.",
     "price": 12.99,
-    "costPrice": 9.0,
+    "costPrice": 9,
+    "discountPrice": 10.99,
+    "category": "Pantry/Dry Goods",
+    "stockQuantity": 3,
+    "images": ["https://images.unsplash.com/photo-1510626176961-4b2f3f3945b1"],
+    "isAvailable": true,
+    "approvalStatus": "approved",
+    "reviewedAt": "2026-06-09T06:09:18.509Z",
+    "reviewedBy": "698dd3f5d1deb6b0b97e47f1"
+  },
+  {
+    "_id": "6a54ce24985e9a202159a4e2",
+    "sellerId": "000000000000000000000001",
+    "shopName": "Sample Shop",
+    "name": "Organic Almonds",
+    "description": "Premium quality organic almonds in a re-sealable pouch.",
+    "price": 12.99,
+    "costPrice": 9,
     "discountPrice": 10.99,
     "category": "Pantry/Dry Goods",
     "stockQuantity": 120,
-    "images": [
-      "https://images.unsplash.com/photo-1510626176961-4b2f3f3945b1"
-    ]
+    "images": ["https://images.unsplash.com/photo-1510626176961-4b2f3f3945b1"],
+    "isAvailable": true,
+    "approvalStatus": "pending"
   },
   {
+    "_id": "6a54ce24985e9a202159a4e3",
     "sellerId": "000000000000000000000002",
     "shopName": "Sample Shop",
     "name": "Fresh Strawberries",
@@ -21,11 +40,12 @@
     "price": 5.49,
     "category": "Produce",
     "stockQuantity": 45,
-    "images": [
-      "https://images.unsplash.com/photo-1498654896293-37aacf113fd9"
-    ]
+    "images": ["https://images.unsplash.com/photo-1498654896293-37aacf113fd9"],
+    "isAvailable": true,
+    "approvalStatus": "pending"
   },
   {
+    "_id": "6a54ce24985e9a202159a4e4",
     "sellerId": "000000000000000000000003",
     "shopName": "Sample Shop",
     "name": "Whole Wheat Bread",
@@ -33,8 +53,8 @@
     "price": 3.75,
     "category": "Bakery",
     "stockQuantity": 75,
-    "images": [
-      "https://images.unsplash.com/photo-1542190865-5e31d6515e77"
-    ]
+    "images": ["https://images.unsplash.com/photo-1542190865-5e31d6515e77"],
+    "isAvailable": true,
+    "approvalStatus": "pending"
   }
 ]
