@@ -52,6 +52,14 @@ CLOUDINARY_URL=your_cloudinary_url (optional)
 PORT=5000
 ```
 
+## Admin Dashboard Login
+Use the following admin account to sign in to the admin dashboard:
+
+- Email: `getstarttodayshop@gmail.com`
+- Password: `asin123456`
+
+If the admin user is not already present in the database, add it manually or seed the database before logging in.
+
 ## Running Locally
 Open two terminals.
 
