@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "6a12c7f45db2ad72c5437cae",
+    "buyerId": "6a12b1b85db2ad72c54371c1",
+    "label": "Home",
+    "street": "4/266,south street, vangiri",
+    "city": "mayiladuthurai",
+    "state": "Tamil Nadu",
+    "pincode": "609105",
+    "isDefault": true,
+    "createdAt": "2026-05-24T09:42:12.365Z",
+    "updatedAt": "2026-05-24T09:42:12.365Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1c3b1d7f33a4b1cfddd9d3",
+    "buyerId": "6a1c3ae07f33a4b1cfddb1ef",
+    "label": "Home",
+    "street": "main road",
+    "city": "vanagiri",
+    "state": "tamilnadu",
+    "pincode": "609105",
+    "isDefault": true,
+    "createdAt": "2026-05-31T13:43:57.693Z",
+    "updatedAt": "2026-05-31T13:43:57.693Z",
+    "__v": 0
+  }
+]

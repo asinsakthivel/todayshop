@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "6a3785027d699c7de8a0e06d",
+    "userId": "6a37840c65804b3e09e3a3d1",
+    "documentType": "AADHAAR",
+    "verificationId": "AADHAAR-1782023426930-70FP0YV2",
+    "__v": 0,
+    "attempts": 1,
+    "createdAt": "2026-06-21T06:30:26.937Z",
+    "documentHash": "b7844a7828163a4f69ab1fcc477b65bb6c35a1cbc9f9658b818e036f78f480a7",
+    "documentNumber": "9ylAIRuRbDhPmsgYeoYDyvgCT944J5sZcwPS1/8uWC/oZZRWUzMH5Q==",
+    "expiryDate": null,
+    "lastAttemptAt": "2026-06-21T06:30:26.937Z",
+    "updatedAt": "2026-06-21T06:30:26.937Z",
+    "verificationData": {
+      "verificationStatus": "VERIFIED",
+      "matchScore": 98,
+      "maskedAadhaar": "XXXX-XXXX-1212",
+      "fullName": "Asin Sathivel",
+      "dob": "2005-12-03",
+      "address": "4/266,south street, vangiri",
+      "source": "UIDAI",
+      "referenceId": "AADHAAR-1782023426934-PRPECPLS",
+      "requestSignature": "85039cf8cf2a1d253162e6673805385c0526af3df97e355b091d5821876e8640"
+    },
+    "verificationStatus": "VERIFIED",
+    "verifiedAt": "2026-06-21T06:30:26.937Z"
+  }
+]

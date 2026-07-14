@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "69c3dcdfcd2ade5533e5502c",
+    "user": "69c3dcdfcd2ade5533e5502a",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YzNkY2RmY2QyYWRlNTUzM2U1NTAyYSIsImVtYWlsIjoiYWxsaXJhbmkxQGdtYWlsLmNvbSIsInJvbGUiOiJidXllciIsImlhdCI6MTc3NDQ0Mzc0MywiZXhwIjoxNzc1MDQ4NTQzfQ.7i3Tg24vcQKoQ7hyR8DWngKE4XD_P-RD--BsVKThN6E",
+    "expiresAt": "2026-04-01T13:02:23.000Z",
+    "revoked": true,
+    "replacedByToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YzNkY2RmY2QyYWRlNTUzM2U1NTAyYSIsImVtYWlsIjoiYWxsaXJhbmkxQGdtYWlsLmNvbSIsInJvbGUiOiJidXllciIsImlhdCI6MTc3NDQ0NTAxMSwiZXhwIjoxNzc1MDQ5ODExfQ.ZTdn5wjEHU_EUcwAU3DP649Ol4nfkW0yZozYPL6bBsA",
+    "createdAt": "2026-03-25T13:02:23.352Z",
+    "updatedAt": "2026-03-25T13:23:31.467Z",
+    "__v": 0
+  },
+  {
+    "_id": "69c3e1d3cd2ade5533e55036",
+    "user": "69c3dcdfcd2ade5533e5502a",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YzNkY2RmY2QyYWRlNTUzM2U1NTAyYSIsImVtYWlsIjoiYWxsaXJhbmkxQGdtYWlsLmNvbSIsInJvbGUiOiJidXllciIsImlhdCI6MTc3NDQ0NTAxMSwiZXhwIjoxNzc1MDQ5ODExfQ.ZTdn5wjEHU_EUcwAU3DP649Ol4nfkW0yZozYPL6bBsA",
+    "expiresAt": "2026-04-01T13:23:31.000Z",
+    "revoked": true,
+    "replacedByToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YzNkY2RmY2QyYWRlNTUzM2U1NTAyYSIsImVtYWlsIjoiYWxsaXJhbmkxQGdtYWlsLmNvbSIsInJvbGUiOiJidXllciIsImlhdCI6MTc3NDQ0NTAxMSwiZXhwIjoxNzc1MDQ5ODExfQ.ZTdn5wjEHU_EUcwAU3DP649Ol4nfkW0yZozYPL6bBsA",
+    "createdAt": "2026-03-25T13:23:31.480Z",
+    "updatedAt": "2026-03-25T13:23:31.520Z",
+    "__v": 0
+  },
+  {
+    "_id": "69c3e1d3cd2ade5533e5503b",
+    "user": "69c3dcdfcd2ade5533e5502a",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YzNkY2RmY2QyYWRlNTUzM2U1NTAyYSIsImVtYWlsIjoiYWxsaXJhbmkxQGdtYWlsLmNvbSIsInJvbGUiOiJidXllciIsImlhdCI6MTc3NDQ0NTAxMSwiZXhwIjoxNzc1MDQ5ODExfQ.ZTdn5wjEHU_EUcwAU3DP649Ol4nfkW0yZozYPL6bBsA",
+    "expiresAt": "2026-04-01T13:23:31.000Z",
+    "revoked": false,
+    "replacedByToken": "",
+    "createdAt": "2026-03-25T13:23:31.524Z",
+    "updatedAt": "2026-03-25T13:23:31.524Z",
+    "__v": 0
+  }
+]

@@ -1,0 +1,224 @@
+[
+  {
+    "_id": "6a1309f9377538a39660b181",
+    "orderId": "6a130616377538a39660b0ea",
+    "deliveryPartnerId": "6a12b2145db2ad72c54371d2",
+    "pickupAddress": "Seller pickup location",
+    "dropAddress": "4/266,south street, vangiri, mayiladuthurai, Tamil Nadu, 609105",
+    "currentStatus": "DELIVERED",
+    "statusHistory": [
+      {
+        "status": "READY_FOR_PICKUP",
+        "timestamp": "2026-05-24T14:23:53.647Z"
+      },
+      {
+        "status": "PICKUP_ASSIGNED",
+        "timestamp": "2026-05-24T14:24:33.855Z"
+      },
+      {
+        "status": "PICKED_UP",
+        "timestamp": "2026-05-24T14:24:36.253Z"
+      },
+      {
+        "status": "OUT_FOR_DELIVERY",
+        "timestamp": "2026-05-24T14:24:38.520Z"
+      },
+      {
+        "status": "DELIVERED",
+        "timestamp": "2026-05-24T14:24:41.370Z"
+      }
+    ],
+    "earnings": 10,
+    "createdAt": "2026-05-24T14:23:53.648Z",
+    "updatedAt": "2026-05-24T14:24:41.371Z",
+    "__v": 4
+  },
+  {
+    "_id": "6a157220f4021731dc339159",
+    "orderId": "6a1571bdf4021731dc33852a",
+    "deliveryPartnerId": "6a12b2145db2ad72c54371d2",
+    "pickupAddress": "Seller pickup location",
+    "dropAddress": "4/266,south street, vangiri, mayiladuthurai, Tamil Nadu, 609105",
+    "currentStatus": "DELIVERED",
+    "statusHistory": [
+      {
+        "status": "READY_FOR_PICKUP",
+        "timestamp": "2026-05-26T10:12:48.044Z"
+      },
+      {
+        "status": "PICKUP_ASSIGNED",
+        "timestamp": "2026-05-26T10:14:12.372Z"
+      },
+      {
+        "status": "PICKED_UP",
+        "timestamp": "2026-05-26T10:14:13.506Z"
+      },
+      {
+        "status": "OUT_FOR_DELIVERY",
+        "timestamp": "2026-05-26T10:14:14.492Z"
+      },
+      {
+        "status": "DELIVERED",
+        "timestamp": "2026-05-26T10:14:15.706Z"
+      }
+    ],
+    "earnings": 10,
+    "createdAt": "2026-05-26T10:12:48.045Z",
+    "updatedAt": "2026-05-26T10:14:15.707Z",
+    "__v": 4
+  },
+  {
+    "_id": "6a1d2173fb7e2729e9d03cf7",
+    "orderId": "6a1c3b267f33a4b1cfdddfec",
+    "deliveryPartnerId": null,
+    "pickupAddress": "Seller pickup location",
+    "dropAddress": "main road, vanagiri, tamilnadu, 609105",
+    "currentStatus": "READY_FOR_PICKUP",
+    "statusHistory": [
+      {
+        "status": "READY_FOR_PICKUP",
+        "timestamp": "2026-06-01T06:06:43.588Z"
+      }
+    ],
+    "earnings": 0,
+    "createdAt": "2026-06-01T06:06:43.590Z",
+    "updatedAt": "2026-06-01T06:06:43.590Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1d9ab0fb7e2729e9d04cee",
+    "orderId": "6a1d9a7bfb7e2729e9d04a66",
+    "deliveryPartnerId": "6a12b2145db2ad72c54371d2",
+    "pickupAddress": "Seller pickup location",
+    "dropAddress": "main road, vanagiri, tamilnadu, 609105",
+    "currentStatus": "DELIVERED",
+    "statusHistory": [
+      {
+        "status": "READY_FOR_PICKUP",
+        "timestamp": "2026-06-01T14:44:00.502Z"
+      },
+      {
+        "status": "PICKUP_ASSIGNED",
+        "timestamp": "2026-06-01T14:44:33.352Z"
+      },
+      {
+        "status": "PICKED_UP",
+        "timestamp": "2026-06-01T14:44:34.467Z"
+      },
+      {
+        "status": "OUT_FOR_DELIVERY",
+        "timestamp": "2026-06-01T14:44:35.424Z"
+      },
+      {
+        "status": "DELIVERED",
+        "timestamp": "2026-06-01T14:44:36.660Z"
+      }
+    ],
+    "earnings": 10,
+    "createdAt": "2026-06-01T14:44:00.505Z",
+    "updatedAt": "2026-06-01T14:44:36.661Z",
+    "__v": 4
+  },
+  {
+    "_id": "6a212f8709c838ace56a34cc",
+    "orderId": "6a21228f09c838ace56a2e55",
+    "deliveryPartnerId": "6a12b2145db2ad72c54371d2",
+    "pickupAddress": "Seller pickup location",
+    "dropAddress": "main road, vanagiri, tamilnadu, 609105",
+    "currentStatus": "DELIVERED",
+    "statusHistory": [
+      {
+        "status": "READY_FOR_PICKUP",
+        "timestamp": "2026-06-04T07:55:51.438Z"
+      },
+      {
+        "status": "PICKUP_ASSIGNED",
+        "timestamp": "2026-06-04T07:56:20.058Z"
+      },
+      {
+        "status": "PICKED_UP",
+        "timestamp": "2026-06-04T07:56:21.241Z"
+      },
+      {
+        "status": "OUT_FOR_DELIVERY",
+        "timestamp": "2026-06-04T07:56:22.845Z"
+      },
+      {
+        "status": "DELIVERED",
+        "timestamp": "2026-06-04T07:56:23.724Z"
+      }
+    ],
+    "earnings": 10,
+    "createdAt": "2026-06-04T07:55:51.440Z",
+    "updatedAt": "2026-06-04T07:56:23.727Z",
+    "__v": 4
+  },
+  {
+    "_id": "6a278fde09c838ace56ad9ca",
+    "orderId": "6a278f8109c838ace56ad26c",
+    "deliveryPartnerId": "6a12b2145db2ad72c54371d2",
+    "pickupAddress": "Seller pickup location",
+    "dropAddress": "main road, vanagiri, tamilnadu, 609105",
+    "currentStatus": "DELIVERED",
+    "statusHistory": [
+      {
+        "status": "READY_FOR_PICKUP",
+        "timestamp": "2026-06-09T04:00:30.900Z"
+      },
+      {
+        "status": "PICKUP_ASSIGNED",
+        "timestamp": "2026-06-09T04:01:09.585Z"
+      },
+      {
+        "status": "PICKED_UP",
+        "timestamp": "2026-06-09T04:01:12.095Z"
+      },
+      {
+        "status": "OUT_FOR_DELIVERY",
+        "timestamp": "2026-06-09T04:01:12.761Z"
+      },
+      {
+        "status": "DELIVERED",
+        "timestamp": "2026-06-09T04:01:13.425Z"
+      }
+    ],
+    "earnings": 10,
+    "createdAt": "2026-06-09T04:00:30.901Z",
+    "updatedAt": "2026-06-09T04:01:13.426Z",
+    "__v": 4
+  },
+  {
+    "_id": "6a27af8c09c838ace56af00e",
+    "orderId": "6a27af3f09c838ace56ae683",
+    "deliveryPartnerId": "6a27ae6d09c838ace56adadf",
+    "pickupAddress": "Seller pickup location",
+    "dropAddress": "main road, vanagiri, tamilnadu, 609105",
+    "currentStatus": "DELIVERED",
+    "statusHistory": [
+      {
+        "status": "READY_FOR_PICKUP",
+        "timestamp": "2026-06-09T06:15:40.409Z"
+      },
+      {
+        "status": "PICKUP_ASSIGNED",
+        "timestamp": "2026-06-09T06:16:22.585Z"
+      },
+      {
+        "status": "PICKED_UP",
+        "timestamp": "2026-06-09T06:16:24.069Z"
+      },
+      {
+        "status": "OUT_FOR_DELIVERY",
+        "timestamp": "2026-06-09T06:16:25.640Z"
+      },
+      {
+        "status": "DELIVERED",
+        "timestamp": "2026-06-09T06:16:26.949Z"
+      }
+    ],
+    "earnings": 10,
+    "createdAt": "2026-06-09T06:15:40.411Z",
+    "updatedAt": "2026-06-09T06:16:26.950Z",
+    "__v": 4
+  }
+]

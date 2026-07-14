@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "6a12b2bc71b3f94d4e319798",
+    "applicant": "6a12b2145db2ad72c54371d2",
+    "__v": 0,
+    "aadhaarNumber": "828282828282",
+    "aadhaarUrl": "http://localhost:5000/uploads/4122936f7cd8e9e54044fa5cf5fad408",
+    "bank": {
+      "account": "0000009898798",
+      "ifsc": "1212"
+    },
+    "createdAt": "2026-05-24T08:11:40.155Z",
+    "email": "saba@gmail.com",
+    "licenseNumber": "09876543",
+    "licenseUrl": "http://localhost:5000/uploads/63e2f14777f31d07402ce558dcc5e95b",
+    "name": "Saba",
+    "phone": "1234567891",
+    "reviewNote": "",
+    "reviewedAt": "2026-05-24T08:13:04.316Z",
+    "reviewedBy": "698dd3f5d1deb6b0b97e47f1",
+    "selfieUrl": "http://localhost:5000/uploads/c2e4df95acab6755bb6bb5b0e757e540",
+    "status": "approved",
+    "updatedAt": "2026-05-24T08:13:04.316Z",
+    "vehicleNumber": "1111111"
+  },
+  {
+    "_id": "6a27aedd1bbea8f73267839b",
+    "applicant": "6a27ae6d09c838ace56adadf",
+    "__v": 0,
+    "aadhaarNumber": "828235228997",
+    "aadhaarUrl": "http://localhost:5000/uploads/2905d77598d18e63934755da7134ee4e",
+    "bank": {
+      "account": "000000001278",
+      "ifsc": "1234"
+    },
+    "createdAt": "2026-06-09T06:12:45.533Z",
+    "email": "delivery@gmail.com",
+    "licenseNumber": "111111111",
+    "licenseUrl": "http://localhost:5000/uploads/59561fc32f000ff784fdc8235850034c",
+    "name": "Abi",
+    "phone": "987654432",
+    "reviewNote": "",
+    "reviewedAt": "2026-06-09T06:13:05.213Z",
+    "reviewedBy": "698dd3f5d1deb6b0b97e47f1",
+    "selfieUrl": "http://localhost:5000/uploads/4cdbdb5c22fe398c2a16f52faa68b93d",
+    "status": "approved",
+    "updatedAt": "2026-06-09T06:13:05.214Z",
+    "vehicleNumber": "9876979"
+  }
+]

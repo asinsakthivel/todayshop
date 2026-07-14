@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "6a12b36371b3f94d4e319799",
+    "buyerId": "6a12b1b85db2ad72c54371c1",
+    "__v": 0,
+    "createdAt": "2026-05-24T08:14:27.946Z",
+    "items": [],
+    "updatedAt": "2026-05-26T10:11:09.184Z"
+  },
+  {
+    "_id": "6a1c3afc1bbea8f73267839a",
+    "buyerId": "6a1c3ae07f33a4b1cfddb1ef",
+    "__v": 0,
+    "createdAt": "2026-05-31T13:43:24.050Z",
+    "items": [],
+    "updatedAt": "2026-06-09T06:14:23.103Z"
+  }
+]

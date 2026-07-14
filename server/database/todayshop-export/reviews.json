@@ -1,0 +1,70 @@
+[
+  {
+    "_id": "6a13ca3c377538a39660b384",
+    "orderId": "6a130616377538a39660b0ea",
+    "buyerId": "6a12b1b85db2ad72c54371c1",
+    "sellerId": "6a1279945db2ad72c5436fc3",
+    "deliveryPartnerId": "6a12b2145db2ad72c54371d2",
+    "productId": "6a12b14b5db2ad72c543719c",
+    "rating": 5,
+    "comment": "good",
+    "reviewedFor": {
+      "seller": false,
+      "delivery": false
+    },
+    "createdAt": "2026-05-25T04:04:12.242Z",
+    "updatedAt": "2026-05-25T04:04:12.242Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1be9e496f9c8fdd0f106e5",
+    "orderId": "6a1571bdf4021731dc33852a",
+    "buyerId": "6a12b1b85db2ad72c54371c1",
+    "sellerId": "6a1279945db2ad72c5436fc3",
+    "deliveryPartnerId": "6a12b2145db2ad72c54371d2",
+    "productId": "6a157145f4021731dc3378f8",
+    "rating": 4,
+    "comment": "good product",
+    "reviewedFor": {
+      "seller": false,
+      "delivery": false
+    },
+    "createdAt": "2026-05-31T07:57:24.986Z",
+    "updatedAt": "2026-05-31T07:57:24.986Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a1d9aecfb7e2729e9d05378",
+    "orderId": "6a1d9a7bfb7e2729e9d04a66",
+    "buyerId": "6a1c3ae07f33a4b1cfddb1ef",
+    "sellerId": "6a1d999afb7e2729e9d03f1f",
+    "deliveryPartnerId": "6a12b2145db2ad72c54371d2",
+    "productId": "6a1d9a2dfb7e2729e9d03f4f",
+    "rating": 5,
+    "comment": "good",
+    "reviewedFor": {
+      "seller": false,
+      "delivery": false
+    },
+    "createdAt": "2026-06-01T14:45:00.595Z",
+    "updatedAt": "2026-06-01T14:45:00.595Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a27afd709c838ace56af924",
+    "orderId": "6a27af3f09c838ace56ae683",
+    "buyerId": "6a1c3ae07f33a4b1cfddb1ef",
+    "sellerId": "6a27ad8809c838ace56ada8a",
+    "deliveryPartnerId": "6a27ae6d09c838ace56adadf",
+    "productId": "6a27adf509c838ace56adab9",
+    "rating": 5,
+    "comment": "good product",
+    "reviewedFor": {
+      "seller": false,
+      "delivery": false
+    },
+    "createdAt": "2026-06-09T06:16:55.050Z",
+    "updatedAt": "2026-06-09T06:16:55.050Z",
+    "__v": 0
+  }
+]
